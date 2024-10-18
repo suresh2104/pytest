@@ -1,0 +1,4 @@
+# requirements.txt
+
+pytest               # Core testing framework
+pytest-html          # Optional, for generating HTML reports
